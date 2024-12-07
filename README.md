@@ -18,7 +18,7 @@ ScreenWiseCSS is a lightweight, responsive, and flexible CSS library designed to
 
 ### Installation
 You can include ScreenWiseCSS in your project by downloading the CSS file.
-html,
+```html,
 <head>
   <link rel="stylesheet" href="path/to/screenwisecss.css">
 </head>
